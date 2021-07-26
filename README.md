@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @alexandercapeta
 - 👀 I’m interested in learning new stuff about tech
 - 🌱 I’m currently learning C++. More like doing a refresher.
 
